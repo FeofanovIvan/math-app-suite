@@ -29,9 +29,9 @@
 ---
 
 ## 📸 Скриншоты
-![Главный экран](media/screen1.png)  
-![Упражнения](media/screen2.png)  
-![Прогресс ребёнка](media/screen3.png)
+<img src="media/screen1.png" width="300"/>
+<img src="media/screen2.png" width="300"/>
+<img src="media/screen3.png" width="300"/>
 
 ---
 
